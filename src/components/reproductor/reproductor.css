@@ -1,0 +1,17 @@
+.rev{
+    width: 60px;
+    height: 60px;
+    padding: 20px;
+    line-height: 60px;
+    font-size: 30px;
+    border-radius: 50%;
+    border: 2px solid #ff0090;
+    text-align: center;
+    margin-left: 5px;
+    transition: .5s;
+
+}
+.rev:hover{
+    background: #ff0090;
+    color: white;
+}
